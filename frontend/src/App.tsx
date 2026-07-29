@@ -1,8 +1,9 @@
 function App() {
   return (
-    <div>
-      <h1>VoyageAI</h1>
-      <p>AI Travel Planner</p>
+    <div className="min-h-screen bg-slate-900 flex items-center justify-center">
+      <h1 className="text-5xl font-bold text-cyan-400">
+        VoyageAI ✈️
+      </h1>
     </div>
   );
 }
